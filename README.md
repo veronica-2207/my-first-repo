@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Veronica Dupaty. I am an AI/ML engineering student focused on building real projects.
+My name is Veronica Dupaty. I am an AI/ML engineering student passionate about machine learning.
 
 ## My Files
 
