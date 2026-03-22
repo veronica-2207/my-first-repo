@@ -8,6 +8,7 @@ My name is Veronica Dupaty. I am a AI/ML engineering student in learning Git and
 
 \## My Files 
 
-* \[My skills](skills.md)
-* \[My goals](goals.md)
+&#x20;- \[My skills](skills.md)
+
+&#x20;- \[My goals](goals.md)
 
