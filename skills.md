@@ -8,6 +8,8 @@
 
 \-python 
 
+\-software proficiency (excel)
+
 
 
 \## Tools 
