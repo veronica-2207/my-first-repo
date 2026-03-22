@@ -1,16 +1,8 @@
-# \# my first repo
+# My First Repo
 
+## About Me
+My name is Veronica Dupaty. I am an AI/ML engineering student learning Git and GitHub.
 
-
-\## ABOUT ME 
-
-My name is Veronica Dupaty. I am a AI/ML engineering student in learning Git and GitHub.
-
-
-
-\## My Files 
-
-&#x20;- \[My skills](skills.md)
-
-&#x20;- \[My goals](goals.md)
-
+## My Files
+- [My Skills](skills.md)
+- [My Goals](goals.md)
